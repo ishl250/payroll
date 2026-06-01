@@ -1,0 +1,6 @@
+{
+  "name": "Employee Payroll Management System",
+  "description": "A complete human resources and payroll management dashboard for PayMaster Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
